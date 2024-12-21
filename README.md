@@ -1,3 +1,3 @@
 # weather
 
-- Simple weather app create by using HTML CSS JS
+- Simple weather app created by using HTML CSS JavaScript.
