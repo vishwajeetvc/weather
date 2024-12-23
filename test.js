@@ -1,6 +1,6 @@
 "use strict"
 
-const apiKey = "4808051e810c6b6a0e025606675cd11d";
+const apiKey = "";
 
 
 const formEl = document.querySelector("form");
